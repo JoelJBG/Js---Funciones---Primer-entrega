@@ -9,7 +9,7 @@
 
 ### **Descripción**
 
-  Se trata de un programa que calcula el precio final de una cortina roller segun:
+  Se trata de un programa que calcula el presupuesto de una cortina roller segun:
   
   - Tipo (Black Out o Sun Screen).
   
